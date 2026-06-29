@@ -1,0 +1,1997 @@
+canonical_identifier: bkk:krp/KR3ee053/v1
+canonical_location: https://kanripo.org/bkk/KR3ee053/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 推拿抉微
+  identifiers:
+    krp: KR3ee053
+  tags:
+    kr-categories: KR3ee
+    tls-dates: dat02200
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee053.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ee053_000.yaml, hash: 'sha256:baec9c7cf33c41ef062cc54317520a23372a010787b8e3aebab0409ca8eb100c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ee053_000.markers.yaml, hash: 'sha256:7dc204e525715be029c5f7ffdef96adba844c0fd027ce7eeca4b61acdce0d9be'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 375
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d3.h1s1
+    span:
+    - front
+    - 375
+    - 778
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 597
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d5.h1s1
+    span:
+    - body
+    - 597
+    - 1087
+  label: 節錄夏英白先生推拿凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6.h1s1
+    span:
+    - body
+    - 1087
+    - 24528
+  label: 第一集認症法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d2
+    span:
+    - body
+    - 1093
+    - 2792
+  label: 審察苗竅
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d3
+    span:
+    - body
+    - 2792
+    - 4107
+  label: 五臟各有所司
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d4
+    span:
+    - body
+    - 4107
+    - 5103
+  label: 形色部位指南賦
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d5
+    span:
+    - body
+    - 5103
+    - 5492
+  label: 以色診病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d6
+    span:
+    - body
+    - 5492
+    - 5954
+  label: 五視法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d7
+    span:
+    - body
+    - 5954
+    - 6134
+  label: 辨小兒五音
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d8
+    span:
+    - body
+    - 6134
+    - 6263
+  label: 聞小兒聲音
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d9
+    span:
+    - body
+    - 6263
+    - 6338
+  label: 指紋辨色歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d10
+    span:
+    - body
+    - 6338
+    - 6579
+  label: 以指冷熱診病說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d11
+    span:
+    - body
+    - 6579
+    - 6793
+  label: 以目診病說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d12
+    span:
+    - body
+    - 6793
+    - 8096
+  label: 五臟所屬之症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d13
+    span:
+    - body
+    - 8096
+    - 8288
+  label: 簡切辨症法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d14
+    span:
+    - body
+    - 8288
+    - 8555
+  label: 辨舌苔法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d15
+    span:
+    - body
+    - 8555
+    - 8984
+  label: 看病訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d16
+    span:
+    - body
+    - 8984
+    - 9496
+  label: 壽夭辨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d17
+    span:
+    - body
+    - 9496
+    - 9859
+  label: 小兒壞證辨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d18
+    span:
+    - body
+    - 9859
+    - 10538
+  label: 斷小兒面色惡症死候
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d19
+    span:
+    - body
+    - 10538
+    - 10670
+  label: 入門試法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d20
+    span:
+    - body
+    - 10670
+    - 12695
+  label: 五臟所傷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d21
+    span:
+    - body
+    - 12695
+    - 13585
+  label: 五臟所惡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d22
+    span:
+    - body
+    - 13585
+    - 14840
+  label: 臟腑為病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d23
+    span:
+    - body
+    - 14840
+    - 18391
+  label: 諸病所屬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d24
+    span:
+    - body
+    - 18391
+    - 19480
+  label: 四時所病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d25
+    span:
+    - body
+    - 19480
+    - 20518
+  label: 臟腑通治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d26
+    span:
+    - body
+    - 20518
+    - 21821
+  label: 五臟所藏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d27
+    span:
+    - body
+    - 21821
+    - 23894
+  label: 望形察色
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d28
+    span:
+    - body
+    - 23894
+    - 24347
+  label: 聞聲別證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d6d29
+    span:
+    - body
+    - 24347
+    - 24528
+  label: 凡死證辨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7.h1s1
+    span:
+    - body
+    - 24528
+    - 42054
+  label: 第二集推拿法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d2
+    span:
+    - body
+    - 24534
+    - 24909
+  label: 推拿代藥賦
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d3
+    span:
+    - body
+    - 24909
+    - 25381
+  label: 指紋
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d4
+    span:
+    - body
+    - 25381
+    - 25715
+  label: 指紋切要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d5
+    span:
+    - body
+    - 25715
+    - 25752
+  label: 三關部位歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d6
+    span:
+    - body
+    - 25752
+    - 25818
+  label: 浮沉分表裡歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d7
+    span:
+    - body
+    - 25818
+    - 25884
+  label: 紅紫辨寒熱歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d8
+    span:
+    - body
+    - 25884
+    - 25950
+  label: 淡滯定虛實歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d9
+    span:
+    - body
+    - 25950
+    - 26140
+  label: 紋形主病歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d10
+    span:
+    - body
+    - 26140
+    - 26232
+  label: 小兒脈法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d11
+    span:
+    - body
+    - 26232
+    - 26481
+  label: 內經脈要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d12
+    span:
+    - body
+    - 26481
+    - 26613
+  label: 四脈主病主證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d13
+    span:
+    - body
+    - 26613
+    - 26798
+  label: 總括脈要歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d14
+    span:
+    - body
+    - 26798
+    - 27096
+  label: 脈證宜忌歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d15
+    span:
+    - body
+    - 27096
+    - 27151
+  label: 開天門法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d16
+    span:
+    - body
+    - 27151
+    - 27203
+  label: 分推太陰穴太陽穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d17
+    span:
+    - body
+    - 27203
+    - 27291
+  label: 掐天庭至承漿穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d18
+    span:
+    - body
+    - 27291
+    - 27348
+  label: 揉耳搖頭法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d19
+    span:
+    - body
+    - 27348
+    - 27389
+  label: 揉太陰穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d20
+    span:
+    - body
+    - 27389
+    - 27429
+  label: 揉太陽穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d21
+    span:
+    - body
+    - 27429
+    - 27535
+  label: 二龍戲珠法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d22
+    span:
+    - body
+    - 27535
+    - 27595
+  label: 運內八卦穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d23
+    span:
+    - body
+    - 27595
+    - 27631
+  label: 乾坎艮入虎口穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d24
+    span:
+    - body
+    - 27631
+    - 27649
+  label: 揉艮宮穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d25
+    span:
+    - body
+    - 27649
+    - 27687
+  label: 運水入土法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d26
+    span:
+    - body
+    - 27687
+    - 27725
+  label: 運土入水法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d27
+    span:
+    - body
+    - 27725
+    - 27793
+  label: 揉內勞宮穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d28
+    span:
+    - body
+    - 27793
+    - 27873
+  label: 掐小天心穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d29
+    span:
+    - body
+    - 27873
+    - 27923
+  label: 揉掐脾經穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d30
+    span:
+    - body
+    - 27923
+    - 27990
+  label: 大腸側推到虎口穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d31
+    span:
+    - body
+    - 27990
+    - 28021
+  label: 虎口側推到大腸經法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d32
+    span:
+    - body
+    - 28021
+    - 28059
+  label: 推掐心經穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d33
+    span:
+    - body
+    - 28059
+    - 28089
+  label: 掐揉肺經穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d34
+    span:
+    - body
+    - 28089
+    - 28144
+  label: 掐推腎經穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d35
+    span:
+    - body
+    - 28144
+    - 28190
+  label: 橫門穴推到板門穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d36
+    span:
+    - body
+    - 28190
+    - 28215
+  label: 板門穴推到橫門穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d37
+    span:
+    - body
+    - 28215
+    - 28241
+  label: 中指尖推到橫門穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d38
+    span:
+    - body
+    - 28241
+    - 28268
+  label: 橫門穴刮到中指尖法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d39
+    span:
+    - body
+    - 28268
+    - 28289
+  label: 掐橫門穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d40
+    span:
+    - body
+    - 28289
+    - 28314
+  label: 揉板門穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d41
+    span:
+    - body
+    - 28314
+    - 28361
+  label: 烏龍擺尾法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d42
+    span:
+    - body
+    - 28361
+    - 28402
+  label: 赤鳳搖頭法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d43
+    span:
+    - body
+    - 28402
+    - 28457
+  label: 丹鳳搖尾法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d44
+    span:
+    - body
+    - 28457
+    - 28510
+  label: 運五經紋法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d45
+    span:
+    - body
+    - 28510
+    - 28584
+  label: 運四橫紋法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d46
+    span:
+    - body
+    - 28584
+    - 28621
+  label: 掐離宮至乾宮法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d47
+    span:
+    - body
+    - 28621
+    - 28673
+  label: 孤雁遊飛法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d48
+    span:
+    - body
+    - 28673
+    - 28696
+  label: 揉氣關法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d49
+    span:
+    - body
+    - 28696
+    - 28735
+  label: 按弦搓摩法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d50
+    span:
+    - body
+    - 28735
+    - 28767
+  label: 老漢扳罾法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d51
+    span:
+    - body
+    - 28767
+    - 28840
+  label: 水底撈明月法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d52
+    span:
+    - body
+    - 28840
+    - 28873
+  label: 鬥肘走氣法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d53
+    span:
+    - body
+    - 28873
+    - 28975
+  label: 掐威靈穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d54
+    span:
+    - body
+    - 28975
+    - 29052
+  label: 掐精靈穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d55
+    span:
+    - body
+    - 29052
+    - 29089
+  label: 鳳凰鼓翅法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d56
+    span:
+    - body
+    - 29089
+    - 29149
+  label: 掐二扇門穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d57
+    span:
+    - body
+    - 29149
+    - 29197
+  label: 掐二人上馬穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d58
+    span:
+    - body
+    - 29197
+    - 29254
+  label: 掐外勞宮穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d59
+    span:
+    - body
+    - 29254
+    - 29295
+  label: 運外八卦穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d60
+    span:
+    - body
+    - 29295
+    - 29318
+  label: 掐中指甲法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d61
+    span:
+    - body
+    - 29318
+    - 29339
+  label: 揉大指甲法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d62
+    span:
+    - body
+    - 29339
+    - 29368
+  label: 捻五指背皮法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d63
+    span:
+    - body
+    - 29368
+    - 29389
+  label: 刮手背法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d64
+    span:
+    - body
+    - 29389
+    - 29442
+  label: 掐老龍穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d65
+    span:
+    - body
+    - 29442
+    - 29479
+  label: 推後溪穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d66
+    span:
+    - body
+    - 29479
+    - 29496
+  label: 揉手背法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d67
+    span:
+    - body
+    - 29496
+    - 29525
+  label: 掐五指爪甲法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d68
+    span:
+    - body
+    - 29525
+    - 29560
+  label: 掐少商穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d69
+    span:
+    - body
+    - 29560
+    - 29658
+  label: 清天河水法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d70
+    span:
+    - body
+    - 29658
+    - 29693
+  label: 打馬過天河法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d71
+    span:
+    - body
+    - 29693
+    - 29760
+  label: 分陰陽法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d72
+    span:
+    - body
+    - 29760
+    - 29786
+  label: 和陰陽法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d73
+    span:
+    - body
+    - 29786
+    - 29850
+  label: 掐赤筋法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d74
+    span:
+    - body
+    - 29850
+    - 29886
+  label: 掐青筋法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d75
+    span:
+    - body
+    - 29886
+    - 29950
+  label: 掐總筋法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d76
+    span:
+    - body
+    - 29950
+    - 29989
+  label: 掐白筋法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d77
+    span:
+    - body
+    - 29989
+    - 30023
+  label: 掐黑筋法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d78
+    span:
+    - body
+    - 30023
+    - 30043
+  label: 猿猴摘果法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d79
+    span:
+    - body
+    - 30043
+    - 30100
+  label: 黃蜂出洞法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d80
+    span:
+    - body
+    - 30100
+    - 30146
+  label: 鳳凰單展翅法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d81
+    span:
+    - body
+    - 30146
+    - 30183
+  label: 飛經走氣法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d82
+    span:
+    - body
+    - 30183
+    - 30211
+  label: 掐靠山穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d83
+    span:
+    - body
+    - 30211
+    - 30283
+  label: 推下六腑法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d84
+    span:
+    - body
+    - 30283
+    - 30354
+  label: 推上三關法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d85
+    span:
+    - body
+    - 30354
+    - 30398
+  label: 掐一窩風法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d86
+    span:
+    - body
+    - 30398
+    - 30542
+  label: 掐陽池穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d87
+    span:
+    - body
+    - 30542
+    - 30597
+  label: 掐鬥肘曲池法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d88
+    span:
+    - body
+    - 30597
+    - 30689
+  label: 掐外關外間使法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d89
+    span:
+    - body
+    - 30689
+    - 30766
+  label: 揉肺俞穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d90
+    span:
+    - body
+    - 30766
+    - 30791
+  label: 揉龜尾法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d91
+    span:
+    - body
+    - 30791
+    - 30867
+  label: 搓臍法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d92
+    span:
+    - body
+    - 30867
+    - 30907
+  label: 掐膝眼穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d93
+    span:
+    - body
+    - 30907
+    - 30939
+  label: 委婁中穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d94
+    span:
+    - body
+    - 30939
+    - 31279
+  label: 掐前承山穴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d95
+    span:
+    - body
+    - 31279
+    - 31635
+  label: 夜啼門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d96
+    span:
+    - body
+    - 31635
+    - 31892
+  label: 重舌門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d97
+    span:
+    - body
+    - 31892
+    - 32058
+  label: 鵝口門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d98
+    span:
+    - body
+    - 32058
+    - 34013
+  label: 風症門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d99
+    span:
+    - body
+    - 34013
+    - 36153
+  label: 諸熱門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d100
+    span:
+    - body
+    - 36153
+    - 36948
+  label: 傷寒門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d101
+    span:
+    - body
+    - 36948
+    - 37437
+  label: 嘔吐門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d102
+    span:
+    - body
+    - 37437
+    - 37716
+  label: 泄瀉門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d103
+    span:
+    - body
+    - 37716
+    - 38034
+  label: 腹痛門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d104
+    span:
+    - body
+    - 38034
+    - 38293
+  label: 痢疾門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d105
+    span:
+    - body
+    - 38293
+    - 38646
+  label: 瘧疾門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d106
+    span:
+    - body
+    - 38646
+    - 38745
+  label: 疳疾門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d107
+    span:
+    - body
+    - 38745
+    - 38927
+  label: 積症門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d108
+    span:
+    - body
+    - 38927
+    - 39376
+  label: 痞症門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d109
+    span:
+    - body
+    - 39376
+    - 39562
+  label: 癇症門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d110
+    span:
+    - body
+    - 39562
+    - 39847
+  label: 咳嗽門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d111
+    span:
+    - body
+    - 39847
+    - 40202
+  label: 腫脹門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d112
+    span:
+    - body
+    - 40202
+    - 40379
+  label: 目疾門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d7d113
+    span:
+    - body
+    - 40379
+    - 42054
+  label: 雜症門推法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8.h1s1
+    span:
+    - body
+    - 42054
+    - 70396
+  label: 第三集治療法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d2
+    span:
+    - body
+    - 42060
+    - 44102
+  label: 辨臍風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d3
+    span:
+    - body
+    - 44102
+    - 44315
+  label: 用火口訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d4
+    span:
+    - body
+    - 44315
+    - 45063
+  label: 集成神火歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d5
+    span:
+    - body
+    - 45063
+    - 45726
+  label: 用火宜忌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d6
+    span:
+    - body
+    - 45726
+    - 46339
+  label: 小兒初生臍風簡便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d7
+    span:
+    - body
+    - 46339
+    - 46697
+  label: 嬌兒易死說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d8
+    span:
+    - body
+    - 46697
+    - 49847
+  label: 我之風症談
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d9
+    span:
+    - body
+    - 49847
+    - 50508
+  label: 我之驚症談
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d10
+    span:
+    - body
+    - 50508
+    - 52266
+  label: 治慢風心得神方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d11
+    span:
+    - body
+    - 52266
+    - 53353
+  label: 傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d12
+    span:
+    - body
+    - 53353
+    - 54204
+  label: 痙病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d13
+    span:
+    - body
+    - 54204
+    - 54824
+  label: 溫病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d14
+    span:
+    - body
+    - 54824
+    - 55564
+  label: 瘟疫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d15
+    span:
+    - body
+    - 55564
+    - 56927
+  label: 癇症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d16
+    span:
+    - body
+    - 56927
+    - 58915
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d17
+    span:
+    - body
+    - 58915
+    - 59957
+  label: 喘哮
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d18
+    span:
+    - body
+    - 59957
+    - 61899
+  label: 疳症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d19
+    span:
+    - body
+    - 61899
+    - 64118
+  label: 嘔吐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d20
+    span:
+    - body
+    - 64118
+    - 65857
+  label: 泄瀉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d21
+    span:
+    - body
+    - 65857
+    - 67072
+  label: 霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d22
+    span:
+    - body
+    - 67072
+    - 69269
+  label: 傷暑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d8d23
+    span:
+    - body
+    - 69269
+    - 70396
+  label: 傷濕
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9.h1s1
+    span:
+    - body
+    - 70396
+    - 96942
+  label: 第四集治療法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d2
+    span:
+    - body
+    - 70402
+    - 73615
+  label: 痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d3
+    span:
+    - body
+    - 73615
+    - 74465
+  label: 噤口痢
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d4
+    span:
+    - body
+    - 74465
+    - 77181
+  label: 瘧疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d5
+    span:
+    - body
+    - 77181
+    - 78916
+  label: 腫滿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d6
+    span:
+    - body
+    - 78916
+    - 80002
+  label: 脹滿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d7
+    span:
+    - body
+    - 80002
+    - 81632
+  label: 氣鼓血鼓
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d8
+    span:
+    - body
+    - 81632
+    - 83229
+  label: 心腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d9
+    span:
+    - body
+    - 83229
+    - 84013
+  label: 癖積
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d10
+    span:
+    - body
+    - 84013
+    - 84467
+  label: 諸汗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d11
+    span:
+    - body
+    - 84467
+    - 85123
+  label: 消渴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d12
+    span:
+    - body
+    - 85123
+    - 85559
+  label: 二便
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d13
+    span:
+    - body
+    - 85559
+    - 86208
+  label: 大便不通
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d14
+    span:
+    - body
+    - 86208
+    - 87077
+  label: 小便不利
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d15
+    span:
+    - body
+    - 87077
+    - 87412
+  label: 夜啼
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d16
+    span:
+    - body
+    - 87412
+    - 88374
+  label: 疝氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d17
+    span:
+    - body
+    - 88374
+    - 89275
+  label: 頭項囟證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d18
+    span:
+    - body
+    - 89275
+    - 90155
+  label: 目疾證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d19
+    span:
+    - body
+    - 90155
+    - 90789
+  label: 耳病證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d20
+    span:
+    - body
+    - 90789
+    - 91591
+  label: 鼻病證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d21
+    span:
+    - body
+    - 91591
+    - 92404
+  label: 口瘡證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d22
+    span:
+    - body
+    - 92404
+    - 92945
+  label: 舌病證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d23
+    span:
+    - body
+    - 92945
+    - 93802
+  label: 牙齒證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d24
+    span:
+    - body
+    - 93802
+    - 94306
+  label: 咽喉證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d25
+    span:
+    - body
+    - 94306
+    - 94666
+  label: 五軟五硬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d26
+    span:
+    - body
+    - 94666
+    - 95376
+  label: 丹毒證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d27
+    span:
+    - body
+    - 95376
+    - 95557
+  label: 破傷風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee053_jc_000-d9d28
+    span:
+    - body
+    - 95557
+    - 96942
+  label: 諸瘡
+  type: section
+  level: 2
+hash: sha256:b3ccf5a9a695e196ae723bb864fdc371dd5586a05c38628a77aeba95442d0b67
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

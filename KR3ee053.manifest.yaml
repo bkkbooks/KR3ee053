@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee053/v1
 canonical_location: https://kanripo.org/bkk/KR3ee053/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 推拿抉微
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee053_000.yaml, hash: 'sha256:03ed04c8b89bc587f692515e1e645c94ed286ffe6f708ab8724c0d8532160f54'}
+  - {seq: 0, filename: KR3ee053_000.yaml, hash: 'sha256:88cb68796f60a26cb91aff30428cad753cc47271559b05f556009e2148f9d272'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee053_000.markers.yaml, hash: 'sha256:47d7f345d364d1b8c97a0469e27bca760d62c22e99b6a1a6d736269eb7e45917'}
+  - {seq: 0, role: markers, filename: assets/KR3ee053_000.markers.yaml, hash: 'sha256:0d8276e3e7ef547844b015dad905e2a943f20d7053b6a2bb0bb59b12a58f1872'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1991,4 +1991,7 @@ table_of_contents:
   label: 諸瘡
   type: section
   level: 2
-hash: sha256:3acf8b5d4bfae28b044b5545e6e63c668b67076b4bf555334425210fdd2f1a23
+hash: sha256:f95cc382114a0c4961731ee9dc227e69cea1c1a69d39107b2a7dabbae84fa276
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ee053_000.yaml, hash: 'sha256:88cb68796f60a26cb91aff30428cad753cc47271559b05f556009e2148f9d272'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee053_000.markers.yaml, hash: 'sha256:0d8276e3e7ef547844b015dad905e2a943f20d7053b6a2bb0bb59b12a58f1872'}
+  - {seq: 0, role: markers, filename: assets/KR3ee053_000.markers.yaml, hash: 'sha256:6b9c1a7385d2c91816fa39cee71750a55a9e268e0330c3e55ccebe14e7784b06'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1991,7 +1991,7 @@ table_of_contents:
   label: 諸瘡
   type: section
   level: 2
-hash: sha256:f95cc382114a0c4961731ee9dc227e69cea1c1a69d39107b2a7dabbae84fa276
+hash: sha256:e03655f29adb6b53201c782a4a5ffe2fd0f7648322c265636a3fdbd44e3e2264
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

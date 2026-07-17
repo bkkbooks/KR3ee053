@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ee053_000-jc.yaml, hash: 'sha256:03ed04c8b89bc587f692515e1e645c94ed286ffe6f708ab8724c0d8532160f54'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee053_000-jc.markers.yaml, hash: 'sha256:3c397036b65ea8076666e277204b3dfe0d5507c1c513287719d77dc31f30ef0f'}
+  - {seq: 0, role: markers, filename: assets/KR3ee053_000-jc.markers.yaml, hash: 'sha256:526b60cf27d62d42bdf44e075da09e4dcc14e3941a9a400897a157c9e1fae2db'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1991,4 +1991,4 @@ table_of_contents:
   label: 諸瘡
   type: section
   level: 2
-hash: sha256:8bf77296597e6d12e384123bf5a1fe4b9db1df7f8edb212f3ccf3542ab75bfb8
+hash: sha256:4fcf7aa3c1664f709b25c775e82ab4e38a9fb309f6301c2bd75747dad4c9d0b8
